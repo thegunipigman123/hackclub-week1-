@@ -31,6 +31,8 @@ I started research on pcb as i have never made one. I might be so fried
 
 **2.37h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/6b5b4722-f04d-4d63-bb89-06140b109efe/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/054e1933-9e50-43c3-a55d-92052e1e8151/video.mp4)
